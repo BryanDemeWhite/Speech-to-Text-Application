@@ -2,7 +2,8 @@
 This is an on-going project located on my personal/hobby Github:  https://github.com/VRCWizard/TTS-Voice-Wizard <br />
 
 ~~Over 200 downloads as of 4/13/22 tracked using this website https://githubstats0.firebaseapp.com/~~ <br />
-~~ Over 2500 downloads as of 8/15/22 tracked using this website https://githubstats0.firebaseapp.com/~~  <br />
+~~Over 2500 downloads as of 8/15/22 tracked using this website https://githubstats0.firebaseapp.com/~~ <br />
+
 Current Downloads ![downloads](https://img.shields.io/github/downloads/VRCWizard/TTS-Voice-Wizard/total?label=Downloads) <br />
 
 
